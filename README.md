@@ -17,7 +17,8 @@ commands -
 2. 'mkdir [directory_name]' : Creates a new directory in the current directory.
 3. 'cd ..' : Use to move to the parent directory. 
 4. 'touch [file_name]' : Creates a new file in the current directory. 
-5. 'exit' : Exits the application 
+5. 'exit' : Exits the application.
+
 (DO NOT INCLUDE THE APOSTROPHES)
 
 Example Usage:

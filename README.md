@@ -13,8 +13,8 @@ Getting started:
 5. How to use: The interface consists of a text area where the output of commands is displayed and an input field where you can type your commands.
 
 commands - 
-'ls' : Lists the contents of the current directory. 
-'mkdir [directory_name]' : Creates a new directory in the current directory. 
+'ls' : Lists the contents of the current directory.
+'mkdir [directory_name]' : Creates a new directory in the current directory.
 'cd ..' : Use to move to the parent directory. 
 'touch [file_name]' : Creates a new file in the current directory. 
 'exit' : Exits the application 
